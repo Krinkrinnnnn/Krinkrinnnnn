@@ -2,6 +2,7 @@
 
 **Full-Stack AI Developer + Data Engineer **
 
+I’ve been obsessed with code since my first "Hello World". Today, that passion lives in building fast, beautiful AI-powered apps and smart automations. I love learning new AI tools daily and turning ideas into working products overnight.
 
 ### 🧠 Languages I Actually Know & Use
 
