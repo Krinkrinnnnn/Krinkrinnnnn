@@ -35,9 +35,9 @@ I’ve been obsessed with code since my first "Hello World". Today, that passion
 
 ### AI & Automation 
 <div align="left">
-  <img src="https://n8n.io/assets/n8n-logo.svg" height="60" width="60" alt="n8n" />
-  <img src="https://openai.com/favicon.ico" height="60" width="60" alt="OpenAI" /> <!-- Fallback to their favicon for a clean icon -->
-  <img src="https://www.langchain.com/brand-assets/langchain-logo.svg" height="60" width="60" alt="LangChain" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/N8n-logo-new.svg" height="60" width="60" alt="n8n" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" height="60" width="60" alt="OpenAI" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/LangChain_Logo.svg" height="60" width="60" alt="LangChain" />
 </div>
 <br>
 
