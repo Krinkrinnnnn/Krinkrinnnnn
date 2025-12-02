@@ -33,14 +33,6 @@ I’ve been obsessed with code since my first "Hello World". Today, that passion
 </div>
 <br>
 
-### AI & Automation 
-<div align="left">
-  <img src="https://n8n.io/assets/n8n-logo.svg" height="60" width="60" alt="n8n" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/512px-OpenAI_Logo.svg.png" height="60" width="60" alt="OpenAI" />
-  <img src="https://python.langchain.com/v0.2/docs/img/langchain-logo.png" height="60" width="60" alt="LangChain" />
-</div>
-<br>
-
 ### Tools & Deployment
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="55" width="55" />
