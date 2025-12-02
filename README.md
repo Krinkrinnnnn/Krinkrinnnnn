@@ -33,11 +33,11 @@ I’ve been obsessed with code since my first "Hello World". Today, that passion
 </div>
 <br>
 
-### AI & Automation (My Superpower Zone)
+### AI & Automation 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" height="60" width="60" alt="n8n" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" height="60" width="60" />
-  <img src="https://langchain-gallery.s3.us-east-1.amazonaws.com/langchain-logo.png" height="60" width="60" alt="LangChain" />
+  <img src="https://n8n.io/assets/n8n-logo.svg" height="60" width="60" alt="n8n" />
+  <img src="https://openai.com/favicon.ico" height="60" width="60" alt="OpenAI" /> <!-- Fallback to their favicon for a clean icon -->
+  <img src="https://www.langchain.com/brand-assets/langchain-logo.svg" height="60" width="60" alt="LangChain" />
 </div>
 <br>
 
