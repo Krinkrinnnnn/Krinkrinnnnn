@@ -50,7 +50,7 @@ I’ve been obsessed with code since my first "Hello World". Today, that passion
 - Turning n8n workflows into sellable templates
 - Maybe Kubernetes… one day
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cf374089-953a-4673-b2df-7f7b55c5e8cc" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cf374089-953a-4673-b2df-7f7b55c5e8cc" data-share-badge-host="https://www.credly.com"></div>
 
 ### Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
