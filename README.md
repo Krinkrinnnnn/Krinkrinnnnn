@@ -7,7 +7,7 @@ I’ve been coding since [when], and I love building [things you build], learnin
 
 ## My Badge
 <!--START_SECTION:badges-->
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/250x250/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)]([http://www.credly.com/badges/22d5c067-afa6-48f7-9f37-ef56a933112d "AWS Certified Cloud Practitioner](https://www.credly.com/badges/cf374089-953a-4673-b2df-7f7b55c5e8cc/public_url)")
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/250x250/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/cf374089-953a-4673-b2df-7f7b55c5e8cc "AWS Certified Cloud Practitioner")
 
 <br>
 
