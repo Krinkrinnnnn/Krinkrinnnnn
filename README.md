@@ -1,9 +1,7 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm William 👋
 
-**Full-Stack [Your Role] | Passionate about [Your Interests]**
-
-[Short bio/description here. Keep it engaging and 2-4 sentences long.]
-I’ve been coding since [when], and I love building [things you build], learning new tech, and [fun fact or hobby].
+Full-Stack AI Developer + Data Engineer
+I’ve been obsessed with code since my first "Hello World". Today, that passion lives in building fast, beautiful AI-powered apps and smart automations. I love learning new AI tools daily and turning ideas into working products overnight.
 
 ## My Badge
 <!--START_SECTION:badges-->
