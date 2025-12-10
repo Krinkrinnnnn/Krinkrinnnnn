@@ -4,7 +4,7 @@
 I’ve been obsessed with code since my first "Hello World". Today, that passion lives in building fast, beautiful AI-powered apps and smart automations. I love learning new AI tools daily and turning ideas into working products overnight.
 
 ### 🏆 Certifications
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cf374089-953a-4673-b2df-7f7b55c5e8cc" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cf374089-953a-4673-b2df-7f7b55c5e8cc" data-share-badge-host="https://www.credly.com"></div><type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js">
 
 <br>
 
