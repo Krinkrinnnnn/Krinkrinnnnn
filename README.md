@@ -5,13 +5,9 @@
 [Short bio/description here. Keep it engaging and 2-4 sentences long.]
 I’ve been coding since [when], and I love building [things you build], learning new tech, and [fun fact or hobby].
 
-### 🏆 Certifications & Achievements
-<!-- Add your certification badges here, right after the intro for prominence -->
-<!-- Example Credly embed (replace with your badge ID) -->
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="your-badge-id-here" data-share-badge-host="https://www.credly.com"></div>
-
-<!-- Or add more as images/badges -->
-<!-- ![AWS Certified](https://images.yourhost.com/aws-badge.png) -->
+## My Badge
+<!--START_SECTION:badges-->
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/22d5c067-afa6-48f7-9f37-ef56a933112d "AWS Certified Cloud Practitioner")
 
 <br>
 
