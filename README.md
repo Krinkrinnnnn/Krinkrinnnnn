@@ -34,12 +34,15 @@ I’ve been obsessed with code since my first "Hello World". Today, that passion
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" width="60" />
 </div>
 <br>
+
 ## Tools & Deployment
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="55" width="55" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55" width="55" style="background:white;border-radius:8px" />
 </div>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cf374089-953a-4673-b2df-7f7b55c5e8cc" data-share-badge-host="https://www.credly.com"></div>
+<br>
+
 ## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourhandle)
