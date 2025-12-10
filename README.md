@@ -47,4 +47,3 @@ I’ve been obsessed with code since my first "Hello World". Today, that passion
 [![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yoursite.com)
 
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
