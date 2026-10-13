@@ -28,7 +28,7 @@
 
 <h2 align="left" id="william-chung-tech">Favorite Tech</h2>
 
-> Languages and tools that I know and use.
+> Languages, frameworks, data, and DevOps tools that I know and use.
 
 <table>
   <tr>
@@ -81,7 +81,7 @@
       <br>Node.js
     </td>
     <td align="center" width="96">
-      <a href="#william-chung-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" height="36" alt="Express" /></a>
+      <a href="#william-chung-tech"><img src="https://raw.githubusercontent.com/expressjs/expressjs.com/2b32cf9b20c00b854584e900e927d2c8d88625d2/public/favicon.svg" width="36" height="36" alt="Express" /></a>
       <br>Express
     </td>
     <td align="center" width="96">
@@ -93,8 +93,38 @@
       <br>Docker
     </td>
     <td align="center" width="96">
-      <a href="#william-chung-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" alt="GitHub" /></a>
+      <a href="#william-chung-tech">
+        <img src="https://github.githubassets.com/favicons/favicon-dark.svg#gh-dark-mode-only" width="36" height="36" alt="GitHub" />
+        <img src="https://github.githubassets.com/favicons/favicon.svg#gh-light-mode-only" width="36" height="36" alt="GitHub" />
+      </a>
       <br>GitHub
+    </td>
+  </tr>
+</table>
+
+<h3 align="left">DevOps &amp; GitOps</h3>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#william-chung-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" height="36" alt="AWS" /></a>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a href="#william-chung-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="36" height="36" alt="Kubernetes" /></a>
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <a href="#william-chung-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="36" height="36" alt="Helm" /></a>
+      <br>Helm
+    </td>
+    <td align="center" width="96">
+      <a href="#william-chung-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="36" height="36" alt="GitHub Actions" /></a>
+      <br>GitHub Actions
+    </td>
+    <td align="center" width="96">
+      <a href="#william-chung-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="36" height="36" alt="Argo CD" /></a>
+      <br>Argo CD
     </td>
   </tr>
 </table>
