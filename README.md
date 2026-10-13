@@ -43,6 +43,8 @@ I’ve been obsessed with code since my first "Hello World". Today, that passion
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cf374089-953a-4673-b2df-7f7b55c5e8cc" data-share-badge-host="https://www.credly.com"></div>
 <br>
 
+![My contribution animation](images/contriboom/game.svg)
+
 ## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourhandle)
