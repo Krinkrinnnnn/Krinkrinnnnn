@@ -1,10 +1,6 @@
 <h1 align="left" id="william-chung-title">👋 Hello there! I'm William Chung</h1>
 <h3 align="left">Full-Stack AI Developer + Data Engineer</h3>
 
-<p align="left">
-  <a href="https://github.com/Krinkrinnnnn">
-    <img src="https://komarev.com/ghpvc/?username=Krinkrinnnnn&amp;style=flat" alt="Profile views" />
-  </a>
   <a href="https://github.com/Krinkrinnnnn?tab=followers">
     <img src="https://img.shields.io/github/followers/Krinkrinnnnn?style=flat&amp;logo=github" alt="GitHub followers" />
   </a>
