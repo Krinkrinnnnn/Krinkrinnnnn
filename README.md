@@ -94,7 +94,6 @@
     </td>
     <td align="center" width="96">
       <a href="#william-chung-tech">
-        <img src="https://github.githubassets.com/favicons/favicon-dark.svg#gh-dark-mode-only" width="36" height="36" alt="GitHub" />
         <img src="https://github.githubassets.com/favicons/favicon.svg#gh-light-mode-only" width="36" height="36" alt="GitHub" />
       </a>
       <br>GitHub
