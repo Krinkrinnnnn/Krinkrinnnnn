@@ -375,7 +375,7 @@
 <rect x="1150" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
 </g><g id="contributions">
 <g data-cell="7,1"><title>2025-12-01: 4 contributions</title>
-<rect x="160" y="28" width="20" height="20" rx="3" fill="#2da44e"/>
+<rect x="160" y="28" width="20" height="20" rx="3" fill="#116329"/>
 <path d="M163 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="7,2"><title>2025-12-02: 9 contributions</title>
@@ -391,11 +391,11 @@
 <path d="M185 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="15,2"><title>2026-01-27: 4 contributions</title>
-<rect x="336" y="50" width="20" height="20" rx="3" fill="#2da44e"/>
+<rect x="336" y="50" width="20" height="20" rx="3" fill="#116329"/>
 <path d="M339 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="19,1"><title>2026-02-23: 5 contributions</title>
-<rect x="424" y="28" width="20" height="20" rx="3" fill="#2da44e"/>
+<rect x="424" y="28" width="20" height="20" rx="3" fill="#116329"/>
 <path d="M427 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="23,2"><title>2026-03-24: 2 contributions</title>
@@ -403,7 +403,7 @@
 <path d="M515 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="23,3"><title>2026-03-25: 3 contributions</title>
-<rect x="512" y="72" width="20" height="20" rx="3" fill="#4ac26b"/>
+<rect x="512" y="72" width="20" height="20" rx="3" fill="#2da44e"/>
 <path d="M515 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="23,4"><title>2026-03-26: 9 contributions</title>
@@ -411,7 +411,7 @@
 <path d="M515 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="24,1"><title>2026-03-30: 3 contributions</title>
-<rect x="534" y="28" width="20" height="20" rx="3" fill="#4ac26b"/>
+<rect x="534" y="28" width="20" height="20" rx="3" fill="#2da44e"/>
 <path d="M537 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="24,2"><title>2026-03-31: 8 contributions</title>
@@ -439,7 +439,7 @@
 <path d="M889 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="41,4"><title>2026-07-30: 3 contributions</title>
-<rect x="908" y="94" width="20" height="20" rx="3" fill="#4ac26b"/>
+<rect x="908" y="94" width="20" height="20" rx="3" fill="#2da44e"/>
 <path d="M911 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="42,2"><title>2026-08-04: 2 contributions</title>
@@ -451,15 +451,15 @@
 <path d="M933 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="42,4"><title>2026-08-06: 3 contributions</title>
-<rect x="930" y="94" width="20" height="20" rx="3" fill="#4ac26b"/>
+<rect x="930" y="94" width="20" height="20" rx="3" fill="#2da44e"/>
 <path d="M933 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="42,5"><title>2026-08-07: 3 contributions</title>
-<rect x="930" y="116" width="20" height="20" rx="3" fill="#4ac26b"/>
+<rect x="930" y="116" width="20" height="20" rx="3" fill="#2da44e"/>
 <path d="M933 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="43,1"><title>2026-08-10: 4 contributions</title>
-<rect x="952" y="28" width="20" height="20" rx="3" fill="#2da44e"/>
+<rect x="952" y="28" width="20" height="20" rx="3" fill="#116329"/>
 <path d="M955 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="43,2"><title>2026-08-11: 1 contributions</title>
@@ -470,9 +470,13 @@
 <rect x="974" y="72" width="20" height="20" rx="3" fill="#aceebb"/>
 <path d="M977 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
-<g data-cell="52,2"><title>2026-10-13: 7 contributions</title>
+<g data-cell="52,2"><title>2026-10-13: 8 contributions</title>
 <rect x="1150" y="50" width="20" height="20" rx="3" fill="#116329"/>
 <path d="M1153 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="52,3"><title>2026-10-14: 2 contributions</title>
+<rect x="1150" y="72" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M1153 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 </g>
 </svg>
